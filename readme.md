@@ -1,5 +1,12 @@
+<p align="center">
+1. composer install
+2. php artisan migrate
+3. npm install
+4. npm install --save-dev vue-axios vue-router vue-loader vue-template-compiler    
+5. npm run watch
+ 6. php artisan serve   
+</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
